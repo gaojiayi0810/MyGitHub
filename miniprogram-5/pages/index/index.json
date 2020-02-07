@@ -1,0 +1,10 @@
+{
+  "navigationBarBackgroundColor": "#000000",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "三维坐标定位",
+  "disableScroll": true,
+  "usingComponents": {
+    "swipertd": "../../components/swiper3D",
+    "swipertd-item": "../../components/swiper3D-item"
+  }
+}
